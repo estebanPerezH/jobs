@@ -1,0 +1,54 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "admin@riwi.io",
+      "nameCompany": "Riwi",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "f297",
+      "email": "na@h.com",
+      "password": "Esteban123*",
+      "nameCompany": "tesla",
+      "imageCompany": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffactoryfy.es%2Fwp-content%2Fuploads%2Flogotipo-empresa-soporte-tecnico.jpg&tbnid=lkuCanCG2cy8aM&vet=12ahUKEwiug9q0iqaEAxV5F2IAHZOVB98QMyhbegUIARDJAg..i&imgrefurl=https%3A%2F%2Ffactoryfy.es%2Fportfolio%2Fdiseno-logotipo-informatica-granada%2F&docid=X62D6HJ5g_wswM&w=700&h=500&q=logo%20de%20compa%C3%B1ia&ved=2ahUKEwiug9q0iqaEAxV5F2IAHZOVB98QMyhbegUIARDJAg",
+      "nit": "1707750280352"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "ec28",
+      "title": "wq",
+      "experience": "121",
+      "salary": "21",
+      "location": "medellin",
+      "modality": "Remote",
+      "description": "dqw",
+      "hour": "2024-02-12",
+      "companyId": "2034"
+    },
+    {
+      "id": "96ed",
+      "title": "ewdwe",
+      "experience": "221",
+      "salary": "212",
+      "location": "2121",
+      "modality": "Remote",
+      "description": "dwfdewd",
+      "hour": "2024-02-13",
+      "companyId": "2034"
+    },
+    {
+      "id": "ee19",
+      "title": "cwecw",
+      "experience": "212",
+      "salary": "2112",
+      "location": "wecwce",
+      "modality": "In person",
+      "description": "qdwwfdew",
+      "hour": "2024-02-13",
+      "companyId": "2034"
+    }
+  ]
+}
